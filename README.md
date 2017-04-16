@@ -8,4 +8,6 @@ asdfdsaf
 asdf
 
 ## Next Section
-afsdfaf 
+afsdfaf
+
+[!Figure 1] (HLDesign.png) 
