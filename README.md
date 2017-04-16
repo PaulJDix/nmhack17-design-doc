@@ -10,4 +10,4 @@ asdf
 ## Next Section
 afsdfaf
 
-[!Figure 1] (./HLDesign.png) 
+[[!Figure 1] (./HLDesign.png)] 
