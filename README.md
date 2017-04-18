@@ -1,5 +1,5 @@
 # Design Doc for All Your Base Hackathon Team
-Design Documentation for All Your Base Hackathon Team
+Design Documentation for All Your Base Hackathon Team.
 
 ## High Level Design Diagram
 Here is the high level design of our project.
