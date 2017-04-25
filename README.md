@@ -40,4 +40,4 @@ Look at these steps for doing some basic manipulation of docs in Dynamo DB using
 
 http://docs.aws.amazon.com/amazondynamodb/latest/gettingstartedguide/GettingStarted.NodeJs.01.html
 
-
+This is Scott
