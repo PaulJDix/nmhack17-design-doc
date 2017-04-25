@@ -1,17 +1,20 @@
 ~~~~
 [
    {
-      "year" : ... ,
-      "title" : ... ,
-      "info" : { ... }
+      "type" : "TotalOpenActivities",
+      "count" : "20",
    },
    {
-      "year" : ...,
-      "title" : ...,
-      "info" : { ... }
-   },
-
-    ...
-
+      "type" : "Approach",
+      "count" : "20",
+   }
+   {
+      "type" : "Birthday",
+      "count" : "20",
+   }
+   {
+      "type" : "FactFinding",
+      "count" : "20",
+   }
 ]
 ~~~~
