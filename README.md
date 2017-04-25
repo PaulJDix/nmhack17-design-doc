@@ -11,7 +11,7 @@ Each service developer is responsible for writing JS code to populate data into 
 ### JS React Front End
 Assigned: Derek H
 
-Derek writes the front end code for the UX. This screen will have a mockup 
+Derek writes the front end code for the UX. This screen will have a mockup
 
 ### FR Preferences JS Node Service
 Assigned: Derek H
@@ -22,7 +22,7 @@ Others on the team can use this code as a model to develop the SRC, CRM and FR B
 ### SRC Mock Data Service
 Assigned: ???
 
-Develop the SRC Mock Data Service. Supports REST calls from the Python Flask client. 
+Develop the SRC Mock Data Service. Supports REST calls from the Python Flask client.
 
 ### CRM Mock Data Service
 Assigned: ???
@@ -34,10 +34,10 @@ Assigned: ???
 
 Develop the FR BoB Mock Data Service. Supports REST calls from the Python Flask client.
 
-## Appendix: Dynamo DB Java Script for CRUD Operations Article 
+## Appendix: Dynamo DB Java Script for CRUD Operations Article
 
 Look at these steps for doing some basic manipulation of docs in Dynamo DB using JS. Note all the prerequisites needed to run code locally and connect to DynamoDB.
 
 http://docs.aws.amazon.com/amazondynamodb/latest/gettingstartedguide/GettingStarted.NodeJs.01.html
 
-This is Scott
+This is Scott...It works!!!!!!!!!!
