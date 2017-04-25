@@ -5,15 +5,15 @@
       "count" : "20",
    },
    {
-      "type" : "Approach",
-      "count" : "20",
-   }
-   {
-      "type" : "Birthday",
-      "count" : "20",
-   }
-   {
       "type" : "FactFinding",
+      "count" : "20",
+   }
+   {
+      "type" : "QS",
+      "count" : "20",
+   }
+   {
+      "type" : "Meals",
       "count" : "20",
    }
 ]
