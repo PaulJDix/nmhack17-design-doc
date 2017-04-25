@@ -4,7 +4,7 @@ Design Documentation for All Your Base Hackathon Team.
 ## High Level Design Diagram
 Here is the high level design of our project.
 
-![Figure 1](HLDesign.png)
+![Figure 1](HLDesignV2.png)
 
 Each service developer is responsible for writing JS code to populate data into the Dynamo table. See link at bottom of page for more info on how to do this.
 
