@@ -6,7 +6,7 @@ Here is the current call tree design for our project.
 
 ![Figure 1](CallTreeSample20170427a.png)
 
-## UX Design(10:35am)
+## UX Design(11:06am)
 Here is the current UX design for our project.
 
 ![Figure 1](UXMockupc.png)
