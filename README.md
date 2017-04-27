@@ -1,10 +1,10 @@
 # Design Doc for All Your Base Hackathon Team
 Design Documentation for All Your Base Hackathon Team.
 
-## Call Tree Design Diagram (10:04am)
+## Call Tree Design Diagram (10:48am)
 Here is the current call tree design for our project.
 
-![Figure 1](CallTreeSample20170427.png)
+![Figure 1](CallTreeSample20170427a.png)
 
 ## UX Design(10:35am)
 Here is the current UX design for our project.
