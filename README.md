@@ -11,10 +11,10 @@ Here is the current UX design for our project.
 
 ![Figure 1](UXMockupc.png)
 
-## Tips Tables (11:23am)
+## Tips Tables (11:49am)
 Here is the current Tips Tables design for our project.
 
-![Figure 1](TipsTables.png)
+![Figure 1](TipsTablesa.png)
 
 ## High Level Design Diagram
 Here is the high level design of our project.
