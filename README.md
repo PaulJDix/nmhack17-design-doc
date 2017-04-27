@@ -6,10 +6,10 @@ Here is the current call tree design for our project.
 
 ![Figure 1](CallTreeSample20170427b.png)
 
-## Call Tree Design Diagram - Page 2 (4:00pm)
+## Call Tree Design Diagram - Page 2 (5:40pm)
 Here is the current call tree design for our project.
 
-![Figure 1](CallTreePageTwo.png)
+![Figure 1](CallTreePageTwoa.png)
 
 ## UX Design(11:06am)
 Here is the current UX design for our project.
