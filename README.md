@@ -9,7 +9,7 @@ Here is the current call tree design for our project.
 ## UX Design(10:35am)
 Here is the current UX design for our project.
 
-![Figure 1](UXMockupb.png)
+![Figure 1](UXMockupc.png)
 
 
 ## High Level Design Diagram
