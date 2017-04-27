@@ -6,6 +6,12 @@ Here is the current call tree design for our project.
 
 ![Figure 1](CallTreeSample20170427.png)
 
+## UX Design(10:15am)
+Here is the current UX design for our project.
+
+![Figure 1](UXMockup.png)
+
+
 ## High Level Design Diagram
 Here is the high level design of our project.
 
